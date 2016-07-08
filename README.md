@@ -1,3 +1,3 @@
 # hello-world-
 first repository test
-Stil learning coding in general, i'd like to see where this takes me.
+Still learning coding in general, I'd like to see where this takes me.
